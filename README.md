@@ -2,7 +2,7 @@
 
 - ✨ My name is **Gabriel Lima**
 - 👨‍💻 I'm a Full Stack Developer
-- 🔭 I’m currently working on [Central Ailos](https://www.ailos.coop.br/)
+- 🔭 I’m currently working on [tmdigital](https://tmdigital.ag)
 - ⚡️  Some of my competencies: Javascript, TypeScript, Angular, React, Java, Spring Framework, C#, .NET Core, Docker, Kafka, SQL, NOSQL, DevOps, Git.
 
 Feel free to connect with me here:
